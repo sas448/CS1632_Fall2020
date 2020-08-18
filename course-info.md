@@ -220,7 +220,7 @@ View the complete policy at www.cfo.pitt.edu/policies/policy/02/02-03-02.html.
 
 Some guidelines:
 
-_1. For all scored deliverablesand exams, viewing the work done by your classmates (or a 3rd source) before submission is considered cheating.  Aiding this activity is also considered cheating.  The only exception is your designated group members for your group projects._
+_1. For all scored deliverables and exams, viewing the work done by your classmates (or a 3rd source) before submission is considered cheating.  Aiding this activity is also considered cheating.  The only exception is your designated group members for your group projects._
 
 _2. For unscored in-class exercises, you are allowed (and encouraged) to look at your classmates' work and discuss it.  If you get ample help for the exercises, you should rarely need additional help for the deliverables._
 

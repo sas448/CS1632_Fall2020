@@ -6,8 +6,8 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 1 (Week of 17 AUG)
 
 * Class 2: Course organization and Syllabus
-  * Do the Java Assessment Exercise (due 8/28)
-  * Fill out the Partnership Contract (due 8/28)
+  * Do the [Java Assessment Exercise](exercises/0) (due 8/28 on GradeScope)
+  * Fill out the [Partnership Contract](partnership_contract.txt) (due 8/28 on GradeScope)
   
 ## WEEK 2 (Week of 24 AUG)
 

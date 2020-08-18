@@ -1,5 +1,5 @@
 # CS 1632
-Software Quality Assurance - Summer 2020
+Software Quality Assurance - Fall 2020
 
 ## Course Information
 
@@ -9,21 +9,20 @@ Software Quality Assurance - Summer 2020
 **Class Time:**
 
   * On Microsoft Teams
-  * Hours: Mon 6:00 PM - 9:00 PM 
+  * Hours: Mon/Wed 9:25 AM - 10:40 AM 
 
 **Instructor's Office Hours:**
 
   * On Microsoft Teams
-  * Hours: Thu 10:00 AM - 12:00 PM
-  * ... or by appointment.
+  * Hours: TBD
 
-**Grading TA Contact Information:**
+**Grading TA Information:**
 
-  * Musale, Pratik Uday (PRM73 at pitt dot edu)
   * Primary mode of communication: "Regrade Request" on GradeScope
-  * ... or by appointment on Microsoft Teams.
+  * Secondary mode of communication: Microsoft Teams
+  * Hours: by appointment
   
-**Class GitHub repo:** https://www.github.com/wonsunahn/CS1632_Summer2020
+**Class GitHub repo:** https://www.github.com/wonsunahn/CS1632_Fall2020
 
 **Required Texts:**
 * [_A Friendly Introduction to Software Testing_](software-quality-assurance-textbook.pdf)
@@ -58,14 +57,20 @@ marked as \[Optional class\].
 * Midterms (20%):
   * Midterm 1 - 10%
   * Midterm 2 - 10%
-* Participation / TopHat Questions (10%)
-
-Attendance will be taken on days with required classes using TopHat and will
-count towards your participation score.
+* Participation (10%)
+  * TopHat lecture questions
+  * Exercise submissions (satisfactory / unsatisfactory)
+  * Teams participation
 
 TopHat questions will be provided when the recorded lectures are released.
 They are expected to be completed during the given time frame (during the week
 the lectures are listed on the syllabus).
+
+Exercise submissions are unscored (as in your actual score doesn't matter).
+You will get full credit if you submit "satisfactory" work.  By satisfactory, I
+mean you did not just submit the skeleton code and you put some kind of effort
+into doing the exercise.  Since these are unscored, you are encouraged to learn
+from your classmates, including by sharing each other's source code.
 
 Exams will NOT be allowed to be made up except with a valid and verified excuse
 (generally medical - others are left to the discretion of the instructor).
@@ -90,7 +95,7 @@ Score  | Grade
 
 ## Assignment submission
 
-All assignments will be submitted using GradeScope.
+All exercises and deliverables will be submitted using GradeScope.
 
 Assignments should be committed and pushed to GitHub to _a private repository_
 and then submitted to GradeScope.  Some assignments also require write-ups that
@@ -134,51 +139,75 @@ Questions and comments are invited and strongly encouraged.  If you have a view
 point or experience that may enrich the class, please jump in!  There are
 several ways you can participate:
 
-1. Online (during a Microsoft Teams meeting)
+1. In-class
 
-    You can either unmute your mic and interject, or type a question on the
-chat window.
+    If you are in-person and you have a question, just interrupt me and
+interject.  If you are online unmute your mic and interject.  Raising your hand
+is optional (whether physical or virtual).  If I miss your raised hand, it's
+not because I want to ignore you but it's probably because there are too many
+things going on at the same time.  So interrupting me is not rude, it's a
+necessity.
 
-2. Offline
-
-    You can post a question on the "Lecture Q & A" thread on the Canvas Discussions
-board.  Individual threads for each deliverable will be created as they are
-released.
+    If you don't have a mic or other circumstances prevent you from asking on
+Zoom, please post the question on Teams.  Use the "Posts" tab on the "General"
+channel.  I want you to use Teams instead of Zoom because Zoom chats don't get
+recorded and they evaporate when the meeting ends.  Teams posts and chats are
+persistent and can be viewed by asynchronous students later on.  I wlll be
+monitoring Teams posts during the lecture.
 
     If it is not a comment specific to lectures or deliverables but just a message
 you wanted to broadcast to the entire class (e.g. "I'm looking for a project
-partner"), you can use Microsoft Teams.  Select the "Teams" menu item on the
-left and select the "CS 1632 Software Quality Assurance" team, then post the
-message on the "Posts" tab.
+partner"), you can use Microsoft Teams.  
 
-    You can also DM (direct message) me or another student in the class.  Again,
-select the "Teams" menu and then "CS 1632 Software Quality Assurance" and then
-select the "..." context menu beside the "CS 1632 Software Quality Assurance"
-team name.  Please select the top-most item: "Manage Team".  There, you should
-be able to see the statuses of all students in the class, and if you hover over
-the name of any student, you should see options to initiate a chat, email, or a
-call with that individual.
+2. Offline
 
-3. Email
+    Please use the Teams "Posts" tab on the "General" channel if you have a
+general question or comment about the lecture.  If you have a question about a
+specific topic for which there is a dedicated channel, please use that channel.
+For example, there is currently a "Partner Exchange" channel besides the
+"General" channel, so please use that channel to broadcast messages about
+partners.  Channels for exercises and deliverables will be added on as the
+class progresses.  Remember, you are encouraged to answer as well as ask
+questions!  I will give a thumbs up on verified answers or I will add a few
+more things if needed.
 
-    For most questions, you are encouraged to use one of the above methods, so that
-your peers can participate and benefit from your questions.  For questions,
-that are specific to your deliverable submission, please use my email.  When
-you ask a question, please submit your source code to GradeScope so that I can
-reproduce your error.  Also, describe precisely the steps I should take to
-reproduce your error.  Before you do this, it is very hard for me to help you.
+    You can also DM (direct message) me or another student in the class.
+Again, select the class in the "Teams" menu and then click on the "..." context
+menu beside the "CS 1632 Software Quality Assurance" team name.  Please select
+the top-most item: "Manage Team".  There, you should be able to see the
+statuses of all students in the class, and if you hover over the name of any
+student, you should see options to initiate a chat, email, or a call with that
+individual.
 
-I will try to get back to all offline and email communications within 24 hours
-of receipt.  Even if I'm logged into Teams, please understand that I may be
-away from my desk or working on something else.  I will get back to you within
-one day at the very least if you leave me a chat message, but don't always
-expect an immediate reply outside of lectures and office hours.
+3. Email / Canvas messages
+
+    For the fastest response, please use Teams.
+
+When you ask a question about an exercise or deliverable, please submit your
+source code to GradeScope so that I can reproduce your error.  Also, describe
+precisely the steps I should take to reproduce your error.  Before you do this,
+it is very hard for me to help you.
+
+I will try to get back to all offline communications within 24 hours of
+receipt.  Even if I'm logged into Teams, please understand that I may be away
+from my desk or working on something else.  Meanwhile, feel free to answer each
+other's questions!
 
 ## Disability Services Statement
 
-"The Office of Disability Resources and Services (DRS) provides a broad range of support services to assist students with disabilities. Services include, but are not limited to, tape-recorded textbooks, sign language interpreters, adaptive and transportation. Contact DRS at 412-648-7890 or 412-383-1355 (TTY) in 216 William Pitt Union or see www.drs.pitt.edu for more computer technology, Braille translation, and nonstandard exam arrangements, DRS can also assist students with accessibility to campus housing information."
+"The Office of Disability Resources and Services (DRS) provides a broad range
+of support services to assist students with disabilities. Services include, but
+are not limited to, tape-recorded textbooks, sign language interpreters,
+adaptive and transportation. Contact DRS at 412-648-7890 or 412-383-1355 (TTY)
+in 216 William Pitt Union or see www.drs.pitt.edu for more computer technology,
+Braille translation, and nonstandard exam arrangements, DRS can also assist
+students with accessibility to campus housing information."
 
-The instructor will work to the best of their ability to accommodate any issues arising from a disability that a student has, but he must be aware of it in order to accommodate it.  Please inform me as soon as possible if you have a disability which you think may hinder your success in the course and we (along with the DRS) should be able to work around it.
+The instructor will work to the best of their ability to accommodate any issues
+arising from a disability that a student has, but he must be aware of it in
+order to accommodate it.  Please inform me as soon as possible if you have a
+disability which you think may hinder your success in the course and we (along
+with the DRS) should be able to work around it.
 
 ## Academic Integrity Statement
 
@@ -193,8 +222,8 @@ View the complete policy at www.cfo.pitt.edu/policies/policy/02/02-03-02.html.
 
 Some guidelines:
 
-_1. For all graded assignments and exams, viewing the work done by your classmates (or a 3rd source) before submission is considered cheating.  Aiding this activity is also considered cheating.  The only exception is your designated group members for your group projects._
+_1. For all scored deliverablesand exams, viewing the work done by your classmates (or a 3rd source) before submission is considered cheating.  Aiding this activity is also considered cheating.  The only exception is your designated group members for your group projects._
 
-_2. For ungraded in-class exercises, you are allowed (and encouraged) to look at your classmates' work and discuss it.  If you get ample help for the exercises, you should rarely need additional help for the projects._
+_2. For unscored in-class exercises, you are allowed (and encouraged) to look at your classmates' work and discuss it.  If you get ample help for the exercises, you should rarely need additional help for the deliverables._
 
-_3. If you need additional help for the projects, your best source is your instructor._
+_3. If you need additional help for the deliverables, your best source is your instructor._

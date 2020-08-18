@@ -157,10 +157,6 @@ recorded and they evaporate when the meeting ends.  Teams posts and chats are
 persistent and can be viewed by asynchronous students later on.  I wlll be
 monitoring Teams posts during the lecture.
 
-    If it is not a comment specific to lectures or deliverables but just a message
-you wanted to broadcast to the entire class (e.g. "I'm looking for a project
-partner"), you can use Microsoft Teams.  
-
 2. Offline
 
     Please use the Teams "Posts" tab on the "General" channel if you have a

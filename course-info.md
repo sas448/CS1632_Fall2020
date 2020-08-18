@@ -34,17 +34,19 @@ emphasis is on providing practical skills in software testing currently used in
 industry. To that end, it will cover: manual and automated tests, test-driven
 development, performance testing, and model checking.
 
-This lecture will use the _blended classroom_ learning model.  All lectures
-(except the guest lecture) will be pre-recorded and posted on Canvas.  It is
-your responsibility to keep up with the lectures according to the schedule on
-the [Syllabus](syllabus.md).  There will be 5 in-class exercises to apply
-what you learned during the lectures and to prepare you for the deliverables.
+This lecture will use the _flipped classroom_ learning model.  All lectures
+(except the introductury lectures and guest lectures) will be pre-recorded and
+posted on Canvas.  It is your responsibility to keep up with the lectures
+according to the schedule on the [Syllabus](syllabus.md).  There will be eight
+in-class exercises to apply what you learned during the lectures and to prepare
+you for the deliverables.
 
-You _are_ required to attend lecture days with in-class exercises and the guest
-lecture marked as \[Required class\](see [Syllabus](syllabus.md)).  And of course the days with the exams.
-
-You are _not_ required to attend lecture days with lecture Q&As or reviews
-marked as \[Optional class\].
+You can choose to either attend classes in-person, synchronously online, or
+asynchronously online according to the Flex@Pitt model.  Synchronous attendance
+of classes (either in-person or online) is encouraged but not required.  If you
+don't attend the lecture, please view the in-class discussion through Panopto
+recordings available on Canvas.  The class schedule is available on the
+[Syllabus](syllabus.md)).  
 
 ## Grading
 

@@ -8,7 +8,7 @@ Software Quality Assurance - Fall 2020
 
 **Class Time:**
 
-  * On Microsoft Teams
+  * On Zoom through Canvas
   * Hours: Mon/Wed 9:25 AM - 10:40 AM 
 
 **Instructor's Office Hours:**

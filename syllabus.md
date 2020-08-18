@@ -1,106 +1,135 @@
-# Syllabus - Summer 2020
+# Syllabus - Fall 2020
 CS1632 Software Quality Assurance
 
 AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assurance-textbook.pdf)
 
-## WEEK 1 (Week of 11 MAY)
-* [Required Class] Introduction and Java Exercise
+## WEEK 1 (Week of 17 AUG)
+
+* Class 2: Syllabus, Java Assessment Exercise
+
+## WEEK 2 (Week of 24 AUG)
+
+* Class 1: Introduction to Software QA
+
+* Class 2: Challenges in Software QA
 
 * Listen to lectures:
   * Basic Testing Theory and Terminology (READING: AFIST, Chapters 2 - 4)
   * Requirements (READING: AFIST, Chapters 5)
   * Test Plans, TM (READING: AFIST, Chapters 6, 8)
 
-## WEEK 2 (Week of 18 MAY)
+## WEEK 3 (Week of 31 AUG)
+  
+* Class 1: In-class Exercise 1: Test Plans
 
-* [Required Class] In-class Exercise 1: Test Plans
-  * Deliverable 1 released due June 1, 2020 06:00 PM
+* Class 2: Discussions on Exercise 1
 
 * Listen to lectures:
   * Defects (READING: AFIST, Chapters 9)
   * Breaking Software (READING: AFIST, Chapters 7)
 
-## WEEK 3 (Week of 25 MAY)
-  
-* [No Class] MEMORIAL DAY
+## WEEK 4 (Week of 7 SEP)
+
+* Class 1: Work on Deliverable 1
+
+* Class 2: Work on Deliverable 1
 
 * Listen to lectures:
   * Automated and Manual Testing (READING: AFIST, Chapter 12)
   * Unit Testing Part 1 (READING: AFIST, Chapter 13)
   * Unit Testing Part 2 (READING: AFIST, Chapter 14)
 
-## WEEK 4 (Week of 1 JUN)
+## WEEK 5 (Week of 14 SEP)
 
-* [Required Class] In-class Exercise 2: Unit Testing
-  * Deliverable 1 due 06:00 PM, Deliverable 2 released due June 22, 2020 06:00 PM
+* Class 1: In-class Exercise 2: Unit Testing
+
+* Class 2: Discussions on Exercise 2
 
 * Listen to lectures:
   * Test-driven Development (READING: AFIST, Chapter 15)
-  * Writing Testable Code (READING: AFIST, Chapter 16)
 
-## WEEK 5 (Week of 8 JUN)
+## WEEK 6 (Week of 21 SEP)
 
-* [Optional Class] Midterm 1 review
+* Class 1: In-class Exercise 3: Behavior Driven Development
+
+* Class 2: Discussions on Exercise 3
 
 * Listen to lectures:
-  * Automated System Testing
+  * Writing Testable Code (READING: AFIST, Chapter 16)
 
-* Midterm 1: Sunday (6/14) 10:00 AM - Monday (6/15) 6:00 PM on GradeScope
+## WEEK 7 (Week of 28 SEP)
+
+* Class 1: Midterm 1 review
+
+* Class 2: Study for Midterm 1 (NO CLASS)
+
+* Midterm 1: TBD on GradeScope
   * Take home exam submitted online
   * Open book but individual work
   * Will not take any questions whatsoever about lecture material during this period
 
-## WEEK 6 (Week of 15 JUN)
+* Listen to lectures:
+  * Automated System Testing
 
-* [Required class] In-class Exercise 3: Automated System Testing
-  * Deliverable 3 released due June 29, 2020 06:00 PM
+## WEEK 8 (Week of 5 OCT)
+
+* Class 1: In-class Exercise 4: Automated System Testing
+
+* Class 2: Discussions on Exercise 4
 
 * Listen to lectures:
   * Performance Testing (READING: AFIST, Chapter 19)
   * Stochastic and Property-Based Testing (READING: AFIST, Chapter 18)
 
-## WEEK 7 (Week of 22 JUN)
+## WEEK 9 (Week of 12 OCT)
 
-* [Required Class] In-class Exercise 4: Performance Testing
-  * Deliverable 2 due 06:00 PM, Deliverable 4 released due July 13, 2020 06:00 PM
+* Class 1: In-class Exercise 5: Property-based Testing
+
+* Class 2: Discussions on Exercise 5
 
 * Listen to lectures:
   * Static Analysis Part 1
   * Static Analysis Part 2
 
-## WEEK 8 (Week of 29 JUN)
+## WEEK 10 (Week of 19 OCT)
 
-* [Required Class] In-class Exercise 5: Static Analysis
-  * Deliverable 3 due 06:00 PM, Deliverable 5 released due July 31, 2020 06:00 PM
+* Class 1: In-class Exercise 6: Performance Testing
+
+* Class 2: Student Self-care Day (NO CLASSES) 
 
 * Listen to lectures:
   * Static Analysis Part 3
   * Pairwise and Combinatorial Testing (READING: AFIST, Chapter 17)
 
-## WEEK 9 (Week of 6 JUL)
+## WEEK 11 (Week of 26 OCT)
 
-* [Required Class] In-class Exercise 6: Property-based Testing
+* Class 1: In-class Exercise 7: Static Analysis
+
+* Class 2: Discussions on Exercise 7
 
 * Listen to lectures:
   * Smoke and Exploratory Testing (READING: AFIST, Chapters 10-11)
   * Security Testing (READING: AFIST, Chapter 20)
-
-## WEEK 10 (Week of 13 JUL)
-
-* [Optional Class] Midterm 2 review
-  * Deliverable 4 due 06:00 PM
   
+## WEEK 12 (Week of 2 NOV)
+
+* Class 1: In-class Exercise 8: Security Testing
+
+* Class 2: Discussions on Exercise 8
+
+## WEEK 13 (Week of 9 NOV)
+
+* Class 1: Guest Lecture 1 (TBD)
+
+* Class 2: Guest Lecture 2 (TBD)
+
+## WEEK 14 (Week of 16 NOV)
+
+* Class 1: Midterm 2 review
+
+* Class 2: Study for Midterm 2 (NO CLASS)
+
 * Midterm 2: Sunday (7/19) 10:00 AM - Monday (7/20) 6:00 PM on GradeScope
   * Take home exam submitted online
   * Open book but individual work
   * Will not take any questions whatsoever about lecture material during this period
-
-## WEEK 11 (Week of 20 JUL)
-
-* [Required Class] [NetApp](https://www.netapp.com/) Guest Lecture
-
-## WEEK 12 (Week of 27 JUL)
-
-* [Required Class] [CGI](https://www.cgi.com/en) Guest Lecture
-
-* Deliverable 5 due Friday 06:00 PM

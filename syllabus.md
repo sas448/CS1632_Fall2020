@@ -6,6 +6,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 1 (Week of 17 AUG)
 
 * Class 2: Course organization and Syllabus
+  * Submit the TopHat survey questions (due 8/21 on TopHat)
   * Do the [Java Assessment Exercise](exercises/0) (due 8/28 on GradeScope)
   * Fill out the [Partnership Contract](partnership_contract.txt) (due 8/28 on GradeScope)
   

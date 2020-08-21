@@ -83,7 +83,7 @@ start by using the Desktop GUI version.  You can download it from:
 
     You will need to go to the root of the course repository to get the clone link:
 
-    https://github.com/wonsunahn/CS1632_Summer2020
+    https://github.com/wonsunahn/CS1632_Fall2020
 
     This way, you will have always have up=to-date course materials on your
 computer.  Whenever there are updates to the course materials, the "Pull"

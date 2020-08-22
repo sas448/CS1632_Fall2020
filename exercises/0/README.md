@@ -37,6 +37,18 @@ Java(TM) SE Runtime Environment (build 1.8.0_231-b11)
 Java HotSpot(TM) 64-Bit Server VM (build 25.231-b11, mixed mode)
 ```
 
+Alternatively, you can use these versions of OpenJDK 8 that have been verified to work with our tool chain:
+* https://chocolatey.org/packages/openjdk8
+* https://chocolatey.org/packages/zulu8
+
+After installing, they should show their respective versions on "javac -version".  For example, for zulu8:
+```
+$ java -version
+openjdk version "1.8.0_265"
+OpenJDK Runtime Environment (Zulu 8.48.0.53-CA-win64) (build 1.8.0_265-b11)
+OpenJDK 64-Bit Server VM (Zulu 8.48.0.53-CA-win64) (build 25.265-b11, mixed mode)
+```
+
 If you don't see the correct version, please follow the below instructions to
 set up the Path OS environment variable.
 
@@ -50,6 +62,8 @@ set up the Path OS environment variable.
 6. For good measure, you may want to remove other Java installations from the "Path"
 7. After this, try doing "java -version" again and it should have changed.
 
+If you use [Chocolatey](https://chocolatey.org/) as your package manager, and you opted to install OpenJDK 8, you will have to replace the above Java bin path with the path where Chocolatey installs the package.
+
 ### Setting up JDK 8 for MacOS
 
 1. Open ~/.bash_profile with your favorite editor (if you don't have one, just do "pico ~/.bash_profile")
@@ -60,7 +74,7 @@ export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Hom
 4. Relaunch the terminal and try doing "which java".  It should say /Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/bin/java.
 5. Now you are good to go!  Otherwise, try doing "echo $PATH" and see if your path is not updated properly, or if there is some other Java installation before you.
 
-Alternatively, you can use jEnv that allows you to switch Java versions easily on a Mac: https://www.jenv.be/.  You will also need Mac brew if you don't already have it: https://brew.sh/.  These are just one liners to install so it should be pretty painless.
+Alternatively, you can use [jEnv](https://www.jenv.be/) that allows you to switch Java versions easily on a Mac.  You will also need [Mac brew](https://brew.sh/) if you don't already have it.  These are just one liners to install so it should be pretty painless.
 
 It's a brew installation so it should be pretty painless.
 

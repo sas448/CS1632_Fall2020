@@ -48,8 +48,7 @@ set up the Path OS environment variable.
 4. Search the "Path" environment variable in user variables and system variables.
 5. Add the bin directory of the Java installation, probably "C:\Program Files\Java\jdk1.8.0_231\bin" to the top of the "Path"
 6. For good measure, you may want to remove other Java installations from the "Path"
-
-After this, try doing "java -version" again and it should have changed.
+7. After this, try doing "java -version" again and it should have changed.
 
 ### Setting up JDK 8 for MacOS
 
@@ -61,8 +60,7 @@ export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Hom
 4. Relaunch the terminal and try doing "which java".  It should say /Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/bin/java.
 5. Now you are good to go!  Otherwise, try doing "echo $PATH" and see if your path is not updated properly, or if there is some other Java installation before you.
 
-Alternatively, there is an open source tool that allows you to switch Java versions easily on a Mac, if you are interested:
-https://www.jenv.be/
+Alternatively, you can use jEnv that allows you to switch Java versions easily on a Mac: https://www.jenv.be/.  You will also need Mac brew if you don't already have it: https://brew.sh/.  These are just one liners to install so it should be pretty painless.
 
 It's a brew installation so it should be pretty painless.
 

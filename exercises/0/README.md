@@ -41,7 +41,7 @@ Alternatively, you can use these versions of OpenJDK 8 that have been verified t
 * https://chocolatey.org/packages/openjdk8
 * https://chocolatey.org/packages/zulu8
 
-After installing, they should show their respective versions on "javac -version".  For example, for zulu8:
+After installing, they should show their respective versions on "java -version".  For example, for zulu8:
 ```
 $ java -version
 openjdk version "1.8.0_265"

@@ -49,7 +49,7 @@ OpenJDK Runtime Environment (Zulu 8.48.0.53-CA-win64) (build 1.8.0_265-b11)
 OpenJDK 64-Bit Server VM (Zulu 8.48.0.53-CA-win64) (build 25.265-b11, mixed mode)
 ```
 
-If you don't see the correct version, please follow the below instructions to
+If you don't see the correct version (either for JDK 8, OpenJDK 8, or Zulu 8), please follow the below instructions to
 set up the Path OS environment variable.
 
 ### Setting up JDK 8 for Windows

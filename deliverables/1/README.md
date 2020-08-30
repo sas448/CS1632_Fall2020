@@ -117,9 +117,9 @@ Traceability Matrix, 3. Test Cases, and 4. Defects.
 
 Each pairwise group will submit the exercise *once* to GradeScope, by *one
 member* of the group.  The submitting member will press the "View or edit
-group" link at the top-right corner of the assignment page after submission to
-add his/her partner.  Make sure that your partner is there, or he/she will not
-get a grade.
+group" link at the top-right corner of the assignment page before or after
+submission to add his/her partner.  Make sure that your partner is there, or
+he/she will not get a grade.
 
 Please feel free to email me at wahn@pitt.edu or come to office hours to
 discuss any problems you have. 

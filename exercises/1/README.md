@@ -1,5 +1,5 @@
 # CS 1632 - Software Quality Assurance
-Summer Semester 2020 - Exercise 1
+Fall Semester 2020 - Exercise 1
 
 * DUE: Sep 2, 2020 09:00 AM (Mon/Wed class)
 * DUE: Sep 3, 2020 09:00 AM (Tue/Thu class)
@@ -167,8 +167,7 @@ your grade details.  Please use the feedback wisely when doing Deliverable 1!
 
 ## Extra Credit
 
-* DUE: Sep 14, 2020 09:00 AM (Mon/Wed class)
-* DUE: Sep 15, 2020 09:00 AM (Tue/Thu class)
+* DUE: Sep 14, 2020 09:00 AM
 
 This submission is optional.  An extra credit of 1 point out of 100 points for
 the entire course will be awarded to the group that finds the most number of

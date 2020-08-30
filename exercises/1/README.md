@@ -159,11 +159,17 @@ Cases, and 3. Defects.
 Each pairwise group will submit the exercise *once* to GradeScope to the
 **Exercise 1** link, by *one member* of the group.  The submitting member will
 press the "View or edit group" link at the top-right corner of the assignment
-page after submission to add his/her partner.  That way, the feedback will be
-accessible to both of you.
+page before or after submission to add his/her partner.  That way, the feedback
+will be accessible to both of you.
 
 When your exercise is marked as graded, you should find feedback written on
 your grade details.  Please use the feedback wisely when doing Deliverable 1!
+
+* One quirk about submissions: the exercise on GradeScope is due on Wednesday but
+late submission is allowed until Thursday.  That is just a trick I'm using to
+differentiate the two sections.  The Mon/Wed class should still submit by
+Wednesday 9:00 Am and the Thu/Thu class should still submit by Thursday 9:00
+AM.
 
 ## Extra Credit
 

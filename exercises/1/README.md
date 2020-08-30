@@ -29,11 +29,11 @@ You may ask me any questions you may have during class.  It's not graded.  Ask m
 Remember, the template for test cases -
 
 ```
-	IDENTIFIER:
-	TEST CASE: 
-	PRECONDITIONS:
-	EXECUTION STEPS:
-	POSTCONDITIONS:
+	IDENTIFIER: [A unique number or string (e.g. FUN-ARGS-NUMBER-FIVE-ARGS)]
+	TEST CASE: [A description of the test case]
+	PRECONDITIONS: [State of the system before performing execution steps]
+	EXECUTION STEPS: [Steps to perform test]
+	POSTCONDITIONS: [ Expected state of the system after performing execution steps]
 ```
 
 The IDENTIFIER is some value which will UNIQUELY specify the test case.  We
@@ -41,6 +41,8 @@ learned it can be either a number, or a more descriptive label (e.g.
 TEST-INVALID-TIMES, TEST-LOW-NUM-TIMES, etc.).  For this exercise, please use a
 descriptive label.  Note that the INPUT VALUES and OUTPUT VALUES fields in the
 template are omitted because we are not doing method unit testing.
+Please refer to [Lecture 4: Test Plans](../../lectures/CS1632_Lecture4_Test_Plans.pdf) Slides 8 - 13
+for more details and examples for each item.
 
 Create a reasonable test plan based on the [requirements](requirements.md).
 Hint: Try to have a combination of explicit boundary values and implicit
@@ -70,7 +72,7 @@ Please listen to "Lecture 5: Defects" before completing this section.
 This is the correct format for defects -
 
 ```
-	 IDENTIFIER:
+	 IDENTIFIER: [A unique number or string (e.g. BUG-ARGS-NUMBER-FIVE-ARGS)]
 	 SUMMARY: [A one sentence description of defect]
 	 DESCRIPTION: [A detailed description of everything the tester discovered]
 	 REPRODUCTION STEPS: [Preconditions + Steps to reproduce (similar to test case execution steps)]
@@ -82,8 +84,9 @@ Please refer to [Lecture 5: Defects](../../lectures/CS1632_Lecture5_Defects.pdf)
 for more details and examples for each item.  Optional bug report items
 such as SEVERITY or IMPACT were not included for this exercise.
 
-**Don't forget to include any preconditions as part of the REPRODUCTION STEPS.**
-You cannot reproduce the steps if you don't know where to start!
+**Don't forget to include any preconditions at the start of the REPRODUCTION
+STEPS.** You will not be able to reproduce the bug even if you reproduce the
+steps if you start from a different precondition!
 
 ## Test Application: GoatGoatCar
 
@@ -153,22 +156,31 @@ to GradeScope in PDF format.  When you submit, you will be asked to assign
 pages in the PDF file to each rubric item: 1. Traceability Matrix, 2. Test
 Cases, and 3. Defects.  
 
-Each pairwise group will submit the exercise *once* to GradeScope, by *one
-member* of the group.  The submitting member will press the "View or edit
-group" link at the top-right corner of the assignment page after submission to
-add his/her partner.  That way, the feedback will be accessible to both of you.
+Each pairwise group will submit the exercise *once* to GradeScope to the
+**Exercise 1** link, by *one member* of the group.  The submitting member will
+press the "View or edit group" link at the top-right corner of the assignment
+page after submission to add his/her partner.  That way, the feedback will be
+accessible to both of you.
 
 When your exercise is marked as graded, you should find feedback written on
 your grade details.  Please use the feedback wisely when doing Deliverable 1!
 
 ## Extra Credit
 
-Note that the in-class exercise is not used for final grade calculation.
-However, an extra credit of 1 point out of 100 points for the entire course
-will be awarded to the group that finds the most number of defects in the
-program.  There can be multiple winners too if there is a tie!
+* DUE: Sep 14, 2020 09:00 AM (Mon/Wed class)
+* DUE: Sep 15, 2020 09:00 AM (Tue/Thu class)
 
-Note: At below are some behaviors that are not defects.
+This submission is optional.  An extra credit of 1 point out of 100 points for
+the entire course will be awarded to the group that finds the most number of
+defects in the program.  There can be multiple winners too if there is a tie!
+
+Duplicate defects that are really the same defect that is triggered by two
+different inputs will be counted only once.  How do you know if it is the same
+defect?  If they display the same behavior (e.g. causes the same type of
+exception at the same source code line).
+
+Also, some behaviors that you think are defects are expected behaviors.  At
+below are some examples: 
 
 1. Bash behavior
 
@@ -212,3 +224,8 @@ Stay:
 There is no requirement that the "good" and "bad" strings have to be
 unique, or they cannot be empty strings for that matter.  This is still
 behavior conformant with the requirements.
+
+Each pairwise group will submit the exercise *once* to GradeScope to the
+**Exercise 1 Extra Credit** link, by *one member* of the group.  Please use the
+ReportTemplateExtraCredit.docx to write the report.  Make sure you number the
+defects so it is easy to count!

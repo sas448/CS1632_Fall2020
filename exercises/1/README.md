@@ -94,24 +94,25 @@ GoatGoatCar is going to be our way of determining the correct answer to the
 "Monty Hall Problem" (https://en.wikipedia.org/wiki/Monty_Hall_problem).  The
 Monty Hall Problem can be summarized in pictures:
 
-<img alt="Figure 1" src=img/monty-hall-pic-1.jpg width=300>
-<img alt="Figure 2" src=img/monty-hall-pic-2.jpg width=300>
-<img alt="Figure 3" src=img/monty-hall-pic-3.jpg width=300>
-<img alt="Figure 4" src=img/monty-hall-pic-4.jpg width=300>
-<img alt="Figure 5" src=img/monty-hall-pic-5.jpg width=300>
+<img alt="Figure 1" src=img/monty-hall-pic-1.jpg width=350>
+<img alt="Figure 2" src=img/monty-hall-pic-2.jpg width=350>
+<img alt="Figure 3" src=img/monty-hall-pic-3.jpg width=350>
+<img alt="Figure 4" src=img/monty-hall-pic-4.jpg width=350>
+<img alt="Figure 5" src=img/monty-hall-pic-5.jpg width=350>
 
-_The question: is the optimal strategy to switch doors to the remaining closed
-door, to stay with the door you've already selected, or does it not matter?_
+What do you think?  The answer lies in the below illustration:
 
-The answer is: it is always better to switch doors (twice better)!  To see why,
-you can read the above wikipedia entry if you like reading, or here is a video
-if you are a more visual learner: https://www.youtube.com/watch?v=9vRUxbzJZ9Y.
+<img alt="Figure 6" src=img/monty-hall-pic-6.svg width=350>
 
-Our program will attempt to find the solution the worst possible way - by brute
-force.  It will simulate a large number of these decisions and give a summary
-at the end of what percentage of the time switching would give you the "good
-item" and what percentage of the time staying would have won you the "bad"
-item.
+If you still don't get it, you can read the above wikipedia entry if you like
+reading, or here is a video if you are a more visual learner: https://www.youtube.com/watch?v=9vRUxbzJZ9Y.
+
+Another way to get at the answer is through Monte Carlo simulations, that is
+simulate the game thousands of times to empirically answer the question one
+way or another.  The program we will test today randomly generates games,
+plays them one way another, and gives a summary at the end of what percentage
+of the time switching would give you the "good item" and what percentage of
+the time staying would have won you the "bad" item.
 
 The program will accept four arguments, in this order:
 

@@ -22,21 +22,21 @@ how the system works.  While you are not expected to find *all* of the defects,
 a reasonable test plan should definitely find at least two.  This is an
 intentionally target-rich environment.
 
-You may ask me any questions you may have during class.  It's not graded.  Ask me anything.
+You may ask me any questions you may have during class.  It's not scored.  Ask me anything.
 
 ## Creating a Test Plan
 
 Remember, the template for test cases -
 
 ```
-	IDENTIFIER: [A unique number or string (e.g. FUN-ARGS-NUMBER-FIVE-ARGS)]
+	IDENTIFIER: [A unique number or string (e.g. TEST-ARGS-NUMBER-FIVE-ARGS)]
 	TEST CASE: [A description of the test case]
 	PRECONDITIONS: [State of the system before performing execution steps]
 	EXECUTION STEPS: [Steps to perform test]
-	POSTCONDITIONS: [ Expected state of the system after performing execution steps]
+	POSTCONDITIONS: [ *EXPECTED* state of the system after performing execution steps]
 ```
 
-The IDENTIFIER is some value which will UNIQUELY specify the test case.  We
+The IDENTIFIER is some value which will uniquely specify the test case.  We
 learned it can be either a number, or a more descriptive label (e.g.
 TEST-INVALID-TIMES, TEST-LOW-NUM-TIMES, etc.).  For this exercise, please use a
 descriptive label.  Note that the INPUT VALUES and OUTPUT VALUES fields in the
@@ -44,10 +44,28 @@ template are omitted because we are not doing method unit testing.
 Please refer to [Lecture 4: Test Plans](../../lectures/CS1632_Lecture4_Test_Plans.pdf) Slides 8 - 13
 for more details and examples for each item.
 
-Create a reasonable test plan based on the [requirements](requirements.md).
-Hint: Try to have a combination of explicit boundary values and implicit
-boundary values as well as interior values in your test cases.  As we learned,
-this is where most of the defects will reside!
+PRECONDITIONS is the state of the system before performing the test.  If the
+system is a website, it is things like: "user is logged into the website" or
+"user is subscribed to the mailing list", etc.  The program we will be testing
+today is a commandline Java program where the test is simply running the
+program with a set of arguments.  There is no program state to speak of before
+running the test.  Then, what things should you put as preconditions?  There
+are plenty!  For a Java program, it is always important which Java Runtime
+Environment (JRE) the program runs in.  You could say something like: When
+"java -version" is run, the system outputs "java version "1.8.0_231".
+Companies would actually perform multiple tests using the same arguments for
+multiple versions of Java that their clients use, and each would be a separate
+test case!
+
+EXECUTION STEPS should be numbered step-by-step instructions on what you expect
+the tester to do.  It should be exact to the letter so that tests are
+reproducible.  The tested program does not allow any interaction with the user
+other than to run it with commandline arguments, so all steps will be
+one-liners in this case, but typically there will be multiple steps.
+
+POSTCONDITIONS should be the **expected** state of the program after the test.
+It is **not** the observed state.  So where should you get expectations of your
+program?  From the [requirements](requirements.md) of course!
 
 ## Creating a Traceability Matrix
 
@@ -133,7 +151,11 @@ $ java -jar GoatGoatCar.jar car goat 10001 4
 
 GoatGoatCar.jar is available in this directory.  
 
-The requirements are listed in the file requirements.md in this directory.
+Create a reasonable test plan based on the [requirements](requirements.md).
+Hint: Try to have a combination of explicit boundary values and implicit
+boundary values as well as interior values in your test cases.  As we learned,
+this is where most of the defects will reside!
+
 
 ## Submission
 

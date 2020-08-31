@@ -13,8 +13,8 @@ preconditions, execution steps, and postconditions.  Additionally, a
 traceability matrix showing the mapping of test cases to requirements is
 required.  
 
-There are several known defects in the software; you will need to find and
-report on at least two.  
+There are several known defects in the software (10 at last count); try to find and
+report on at least two.
 
 It is expected that you execute the test plan in order to find the defects, but
 you may find it useful to initially do some exploratory testing to determine

@@ -184,7 +184,7 @@ different inputs will be counted only once.  How do you know if it is the same
 defect?  If they display the same behavior (e.g. causes the same type of
 exception at the same source code line).
 
-Also, some behaviors that you think are defects are expected behaviors.  At
+Also, some behaviors that you may think are defects are expected behaviors.  At
 below are some examples: 
 
 1. Bash behavior

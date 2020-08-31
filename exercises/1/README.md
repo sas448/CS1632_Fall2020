@@ -92,15 +92,13 @@ steps if you start from a different precondition!
 
 GoatGoatCar is going to be our way of determining the correct answer to the
 "Monty Hall Problem" (https://en.wikipedia.org/wiki/Monty_Hall_problem).  The
-Monty Hall Problem can be summarized as follows:
+Monty Hall Problem can be summarized in pictures:
 
-_Assume you are on a game show with three closed doors.  Behind one door is a
-car (which you want), and behind the other two doors are goats (which you do
-not want - if you do want a goat, I implore you to research how difficult goat
-tending is).  You pick one door, which you hope has the car behind it.  The
-game show host - who knows where the car is, and so will not open that door -
-opens up one of the two doors you did not select.  Behind that door is, of
-course, a goat._
+<img alt="Figure 1" src=img/monty-hall-pic-1.jpg width=300>
+<img alt="Figure 2" src=img/monty-hall-pic-2.jpg width=300>
+<img alt="Figure 3" src=img/monty-hall-pic-3.jpg width=300>
+<img alt="Figure 4" src=img/monty-hall-pic-4.jpg width=300>
+<img alt="Figure 5" src=img/monty-hall-pic-5.jpg width=300>
 
 _The question: is the optimal strategy to switch doors to the remaining closed
 door, to stay with the door you've already selected, or does it not matter?_

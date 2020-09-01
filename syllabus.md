@@ -14,7 +14,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 1: Introduction to Software QA
 
-* Class 2: Challenges in Software QA
+* Class 2: Software QA and Nondeterminism
 
 * Listen to lectures:
   * Basic Testing Theory and Terminology (READING: AFIST, Chapters 2 - 4)
@@ -25,7 +25,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   
 * Class 1: In-class Exercise 1: Test Plans
 
-* Class 2: Discussions on Exercise 1
+* Class 2: Discuss Exercise 1 / Deliverable 1 / TopHat questions
 
 * Listen to lectures:
   * Defects (READING: AFIST, Chapters 9)
@@ -33,7 +33,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 4 (Week of 7 SEP)
 
-* Class 1: Work on Deliverable 1
+* Class 1: Software QA and Nondeterminism (cont'd)
 
 * Class 2: Work on Deliverable 1
 
@@ -46,16 +46,16 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 1: In-class Exercise 2: Unit Testing
 
-* Class 2: Discussions on Exercise 2
+* Class 2: Discuss Exercise 2 / Deliverable 2 / TopHat questions
 
 * Listen to lectures:
   * Test-driven Development (READING: AFIST, Chapter 15)
 
 ## WEEK 6 (Week of 21 SEP)
 
-* Class 1: In-class Exercise 3: Behavior Driven Development
+* Class 1: In-class Supplementary Exercise 1: Behavior Driven Development
 
-* Class 2: Discussions on Exercise 3
+* Class 2: Discuss Supplementary Exercise 1 / TopHat questions
 
 * Listen to lectures:
   * Writing Testable Code (READING: AFIST, Chapter 16)
@@ -76,9 +76,9 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 8 (Week of 5 OCT)
 
-* Class 1: In-class Exercise 4: Automated System Testing
+* Class 1: In-class Exercise 3: Automated System Testing
 
-* Class 2: Discussions on Exercise 4
+* Class 2: Discuss Exercise 3 / Deliverable 3 / TopHat questions
 
 * Listen to lectures:
   * Performance Testing (READING: AFIST, Chapter 19)
@@ -86,9 +86,9 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 9 (Week of 12 OCT)
 
-* Class 1: In-class Exercise 5: Property-based Testing
+* Class 1: In-class Supplementary Exercise 2: Property-based Testing
 
-* Class 2: Discussions on Exercise 5
+* Class 2: Discuss Supplementary Exercise 2 / TopHat questions
 
 * Listen to lectures:
   * Static Analysis Part 1
@@ -96,7 +96,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 10 (Week of 19 OCT)
 
-* Class 1: In-class Exercise 6: Performance Testing
+* Class 1: In-class Exercise 4: Performance Testing
 
 * Class 2: Student Self-care Day (NO CLASSES) 
 
@@ -106,9 +106,9 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 11 (Week of 26 OCT)
 
-* Class 1: In-class Exercise 7: Static Analysis
+* Class 1: In-class Exercise 5: Static Analysis
 
-* Class 2: Discussions on Exercise 7
+* Class 2: Discuss Exercise 5 / Deliverable 5 / TopHat questions
 
 * Listen to lectures:
   * Smoke and Exploratory Testing (READING: AFIST, Chapters 10-11)
@@ -116,9 +116,9 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   
 ## WEEK 12 (Week of 2 NOV)
 
-* Class 1: In-class Exercise 8: Security Testing
+* Class 1: In-class Supplementary Exercise 3: Security Testing
 
-* Class 2: Discussions on Exercise 8
+* Class 2: Discuss Supplementary Exercise 3 / TopHat questions
 
 ## WEEK 13 (Week of 9 NOV)
 

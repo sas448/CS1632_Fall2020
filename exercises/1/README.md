@@ -163,8 +163,8 @@ this is where most of the defects will reside!
 Please note that the submission of this exercise takes the place of the
 attendance check for this in-class exercise.  Submission will be reflected on
 your participation grade.  As long as the submission shows any amount of
-reasonable work was done, it will count (that is, you don't get a 0 on
-GradeScope).  On the other hand, the actual score you get GradeScope will not
+reasonable work was done (that is, you don't get a 0 on GradeScope), it will
+count.  On the other hand, the actual score you get on GradeScope will not
 count towards your grade.  It's there only for feedback purposes and help you
 do Deliverable 1 better.  This applies to all future exercises.
 

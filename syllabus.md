@@ -16,7 +16,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Software QA and Nondeterminism
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Basic Testing Theory and Terminology (READING: AFIST, Chapters 2 - 4)
   * Requirements (READING: AFIST, Chapters 5)
   * Test Plans, TM (READING: AFIST, Chapters 6, 8)
@@ -27,7 +27,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Discuss Exercise 1 / Deliverable 1 / TopHat questions
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Defects (READING: AFIST, Chapters 9)
   * Breaking Software (READING: AFIST, Chapters 7)
 
@@ -37,7 +37,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Work on Deliverable 1
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Automated and Manual Testing (READING: AFIST, Chapter 12)
   * Unit Testing Part 1 (READING: AFIST, Chapter 13)
   * Unit Testing Part 2 (READING: AFIST, Chapter 14)
@@ -48,7 +48,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Discuss Exercise 2 / Deliverable 2 / TopHat questions
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Test-driven Development (READING: AFIST, Chapter 15)
 
 ## WEEK 6 (Week of 21 SEP)
@@ -57,7 +57,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Discuss Supplementary Exercise 1 / TopHat questions
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Writing Testable Code (READING: AFIST, Chapter 16)
 
 ## WEEK 7 (Week of 28 SEP)
@@ -71,7 +71,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Open book but individual work
   * Will not take any questions whatsoever about lecture material during this period
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Automated System Testing
 
 ## WEEK 8 (Week of 5 OCT)
@@ -80,7 +80,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Discuss Exercise 3 / Deliverable 3 / TopHat questions
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Performance Testing (READING: AFIST, Chapter 19)
   * Stochastic and Property-Based Testing (READING: AFIST, Chapter 18)
 
@@ -90,7 +90,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Discuss Supplementary Exercise 2 / TopHat questions
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Static Analysis Part 1
   * Static Analysis Part 2
 
@@ -100,7 +100,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Student Self-care Day (NO CLASSES) 
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Static Analysis Part 3
   * Pairwise and Combinatorial Testing (READING: AFIST, Chapter 17)
 
@@ -110,7 +110,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Discuss Exercise 5 / Deliverable 5 / TopHat questions
 
-* Listen to lectures:
+* Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Smoke and Exploratory Testing (READING: AFIST, Chapters 10-11)
   * Security Testing (READING: AFIST, Chapter 20)
   

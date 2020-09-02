@@ -132,7 +132,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Study for Midterm 2 (NO CLASS)
 
-* Midterm 2: Sunday (7/19) 10:00 AM - Monday (7/20) 6:00 PM on GradeScope
+* Midterm 2: TBD on GradeScope
   * Take home exam submitted online
   * Open book but individual work
   * Will not take any questions whatsoever about lecture material during this period

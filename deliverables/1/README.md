@@ -82,7 +82,7 @@ There are a few things that are different from Exercise 1 though:
 1. Execution Steps: Exercise 1 had just one execution step (launching the
    program).  You will have multiple steps for most test cases in this
 deliverable.  All steps must numbered and clearly delineated.  It should not
-say "Go north".  Instead it should say "Type N and press <Enter>".
+say "Go north".  Instead it should say "Type N and press [Enter]".
 
 2. Preconditions: Unlike Exercise 1, now preconditions can include program
    state as well as other system state.  For example, you might want express a
@@ -121,11 +121,11 @@ You can run it downloading the coffeemaker.jar file and running:
 java -jar coffeemaker.jar
 ```
 
-The requirements are listed in the file requirements.txt.
+The requirements are listed in the file [requirements.txt](requirements.txt).
 
 ## Tips
 
-Please read [deliverable1-tips.md] if you are confused.
+Please read [deliverable1-tips.md](deliverable1-tips.md) if you are confused.
 
 ## Grading
 * Introduction: 10% of grade
@@ -133,15 +133,15 @@ Please read [deliverable1-tips.md] if you are confused.
 * Traceability Matrix: 20% of grade
 * Defects Found and Described: 30% of grade
 
-Please review the grading_rubric.txt for details.
+Please review the [grading_rubric.txt](grading_rubric.txt) for details.
 
 ## Submission
 
-Please use the ReportTemplate.docx file provided in this directory to write
-your report.  If you don't have a .docx compatible word processor, that's
-perfectly fine as long as you follow the same organization.  A PDF version of
-the file is at ReportTemplate.pdf.  Please make sure that the intro,
-traceability matrix, test cases, and defects are on seperate pages.  You will
+Please use the [ReportTemplate.docx](ReportTemplate.docx) file provided in this
+directory to write your report.  If you don't have a .docx compatible word processor,
+that's perfectly fine as long as you follow the same organization.  A PDF version of
+the file is at [ReportTemplate.pdf](ReportTemplate.pdf).  Please make sure that
+the intro, traceability matrix, test cases, and defects are on seperate pages.  You will
 be submitting to GradeScope in PDF format.  When you submit, you will be asked
 to assign pages in the PDF file to each rubric item: 1. Introduction, 2.
 Traceability Matrix, 3. Test Cases, and 4. Defects.

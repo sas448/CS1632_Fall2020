@@ -23,12 +23,9 @@ Clearly written:                     ____ / 10
 
 * Traceability Matrix: 20% of grade
 
-Each requirement & TC listed:        ____ / 5
+>= 1 Test case per requirement:      ____ / 10
 
->= 1 Test case per requirement, and
->= 1 Requirement per TC:             ____ / 5
-
-Test case covers listed reqs:        ____ / 10      
+>= 1 Requirement per TC:             ____ / 10
 
 * Defects Found and Described: 30% of grade
 

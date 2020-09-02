@@ -14,7 +14,8 @@ performed to get to that state       ____ / 5
 Test cases include only EXPECTED
 behavior, not OBSERVED behavior:     ____ / 10
 
-Expected behavior is SPECIFIC:       ____ / 10
+Expected behavior is as specific
+as described in requirements:        ____ / 10
 
 Execution steps are numbered and
 clearly delineated:                  ____ / 5

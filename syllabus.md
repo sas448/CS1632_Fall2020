@@ -23,7 +23,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 3 (Week of 31 AUG)
   
-* Class 1: In-class Exercise 1: Test Plans
+* Class 1: In-class Exercise 1: Test Plans (Due before Class 2 at 9:00 AM)
 
 * Class 2: Discuss Exercise 1 / Deliverable 1 / TopHat questions
 
@@ -44,7 +44,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 5 (Week of 14 SEP)
 
-* Class 1: In-class Exercise 2: Unit Testing
+* Class 1: In-class Exercise 2: Unit Testing (Due before Class 2 at 9:00 AM)
 
 * Class 2: Discuss Exercise 2 / Deliverable 2 / TopHat questions
 
@@ -53,7 +53,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 6 (Week of 21 SEP)
 
-* Class 1: In-class Supplementary Exercise 1: Behavior Driven Development
+* Class 1: In-class Supplementary Exercise 1: Behavior Driven Development (Due before Class 2 at 9:00 AM)
 
 * Class 2: Discuss Supplementary Exercise 1 / TopHat questions
 
@@ -76,7 +76,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 8 (Week of 5 OCT)
 
-* Class 1: In-class Exercise 3: Automated System Testing
+* Class 1: In-class Exercise 3: Automated System Testing (Due before Class 2 at 9:00 AM)
 
 * Class 2: Discuss Exercise 3 / Deliverable 3 / TopHat questions
 
@@ -86,7 +86,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 9 (Week of 12 OCT)
 
-* Class 1: In-class Supplementary Exercise 2: Property-based Testing
+* Class 1: In-class Supplementary Exercise 2: Property-based Testing (Due before Class 2 at 9:00 AM)
 
 * Class 2: Discuss Supplementary Exercise 2 / TopHat questions
 
@@ -96,7 +96,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 10 (Week of 19 OCT)
 
-* Class 1: In-class Exercise 4: Performance Testing
+* Class 1: In-class Exercise 4: Performance Testing (Due before Class 2 at 9:00 AM)
 
 * Class 2: Student Self-care Day (NO CLASSES) 
 
@@ -106,7 +106,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 11 (Week of 26 OCT)
 
-* Class 1: In-class Exercise 5: Static Analysis
+* Class 1: In-class Exercise 5: Static Analysis (Due before Class 2 at 9:00 AM)
 
 * Class 2: Discuss Exercise 5 / Deliverable 5 / TopHat questions
 
@@ -116,7 +116,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   
 ## WEEK 12 (Week of 2 NOV)
 
-* Class 1: In-class Supplementary Exercise 3: Security Testing
+* Class 1: In-class Supplementary Exercise 3: Security Testing (Due before Class 2 at 9:00 AM)
 
 * Class 2: Discuss Supplementary Exercise 3 / TopHat questions
 

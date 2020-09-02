@@ -8,14 +8,16 @@ Clearly written:                     ____ / 5
 
 * Test Plan: 40% of grade
 
-Test cases are valid (actual
-expected behavior according to reqs) ____ / 15
+Preconditions list the actions
+performed to get to that state       ____ / 5
 
 Test cases include only EXPECTED
-behavior, not OBSERVED behavior:     ____ / 5
+behavior, not OBSERVED behavior:     ____ / 10
 
-Expected behavior and execution
-steps are SPECIFIC:                  ____ / 10
+Expected behavior is SPECIFIC:       ____ / 10
+
+Execution steps are numbered and
+clearly delineated:                  ____ / 5
 
 Clearly written:                     ____ / 10
 
@@ -33,6 +35,7 @@ Test case covers listed reqs:        ____ / 10
 Must be >= 3 defects! 10% off for each missing one.
 
 Defects are Reproducible:            ____ / 10  
+(-5 if preconditions missing)
 
 Include expected/observed behavior:  ____ / 10
 

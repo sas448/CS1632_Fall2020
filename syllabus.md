@@ -35,7 +35,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 1: Software QA and Nondeterminism (cont'd)
 
-* Class 2: Work on Deliverable 1
+* Class 2: Software QA and Nondeterminism Hands-on Exercises
 
 * Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Automated and Manual Testing (READING: AFIST, Chapter 12)

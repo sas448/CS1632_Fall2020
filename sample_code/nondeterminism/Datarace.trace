@@ -1,0 +1,14 @@
+// application: Datarace.main()
+// trace over all CG classes
+//------------------------- choice trace
+   0: hreadChoiceFromSet {id:"ROOT" ,1/1,isCascaded:false}
+ 	at java.lang.Boolean.[<clinit>](Boolean.java:0)
+   1: hreadChoiceFromSet {id:"START" ,2/2,isCascaded:false}
+ 	at java.lang.Thread.start(Thread.java)
+   2: hreadChoiceFromSet {id:"SHARED_CLASS" ,1/2,isCascaded:false}
+ 	at Datarace.run(Datarace.java:4)
+   3: hreadChoiceFromSet {id:"SHARED_CLASS" ,1/2,isCascaded:false}
+ 	at Datarace.run(Datarace.java:4)
+   4: hreadChoiceFromSet {id:"SHARED_CLASS" ,1/2,isCascaded:false}
+ 	at Datarace.run(Datarace.java:4)
+//------------------------- end choice trace

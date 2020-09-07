@@ -1,6 +1,6 @@
 TARGETS = heap stack stack_overflow stack_pointer_return datarace binary_tree
 OBJS = heap.o stack.o stack_overflow.o o stack_pointer_return.o datarace.o binary_tree.o
-CC = /afs/cs.pitt.edu/usr0/wahn/packages/clang-9.0.1/bin/clang
+CC = /afs/cs.pitt.edu/courses/1632/clang-9.0.1/bin/clang
 COPT = -g -w
 LOPT =
 

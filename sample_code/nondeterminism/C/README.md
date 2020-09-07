@@ -414,6 +414,6 @@ $ make
 
 ## Resources
 
-* Windows SSH Terminal Client: [Putty](https://www.technology.pitt.edu/services/pittnet-vpn-pulse-secure)
+* Windows SSH Terminal Client: [Putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 * File Transfer Client: [FileZilla](https://filezilla-project.org/download.php?type=client)
 * Linux command line tutorial: [The Linux Command Line](http://linuxcommand.org/lc3_learning_the_shell.php)

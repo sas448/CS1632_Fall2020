@@ -33,7 +33,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 ## WEEK 4 (Week of 7 SEP)
 
-* Class 1: Software QA and Nondeterminism (cont'd)
+* Class 1: Software QA and Nondeterminism (cont'd) / Discuss TopHat questions
 
 * Class 2: Software QA and Nondeterminism Hands-on Exercises
 

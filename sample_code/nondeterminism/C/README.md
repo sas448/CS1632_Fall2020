@@ -165,6 +165,14 @@ security.  What then?  Your programs will again be nondeterministic and testing
 would no longer guarantee correct behavior.  So we may still get surprise
 defects.
 
+How can we have a deterministic program when all addresses are randomized?
+Easy: just don't let addresses leak out to program output!  As we discussed,
+unless for debugging purposes, programs will almost never intentionally output
+addresses where data is stored --- they will typically output the data.  It is
+just that addresses leak out to output due to memory errors.  So if we can
+catch all memory errors, then problem solved!  ASAN is exactly the kind of tool
+that can help you do that.
+
 ## Using Google ASAN (Address Sanitizer)
 
 Before starting, we need to setup some OS environment variables used by Google sanitizer:

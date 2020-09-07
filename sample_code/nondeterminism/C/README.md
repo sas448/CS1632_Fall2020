@@ -21,8 +21,8 @@ Nondeterminism lecture.  By trying out these programs, you will learn the follow
 
 ## Connecting to linux.cs.pitt.edu
 
-In order to use ASAN or TSAN, you need to clang version >= 3.1 or gcc version
->= 4.8.  Since you are unlikely to have either installed on your local
+In order to use ASAN or TSAN, you need to clang version >= 3.1 or gcc version >= 4.8.
+Since you are unlikely to have either installed on your local
 computer, I will ask you to connect to one of the departmental public Linux
 servers through linux.cs.pitt.edu.
 

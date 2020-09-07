@@ -39,7 +39,11 @@ Connect to "linux.cs.pitt.edu" by typing that in the "Host Name" box.  Make sure
 
 1. Once connected, the host will ask for your Pitt SSO credentials.  Enter your ID and password.
 
-If you use MacOS or Linux, you already have a terminal in your OS, so you can skip Step 2.
+If you use MacOS or Linux, you already have a terminal in your OS, so you can skip Step 2.  You can simply type on the terminal:
+```
+ssh USERNAME@linux.cs.pitt.edu
+```
+Where USERNAME is your Pitt ID.
 
 ## Building
 
@@ -407,3 +411,9 @@ $ make
 /afs/cs.pitt.edu/courses/1632/clang-9.0.1/bin/clang -c -g -w -fsanitize=address stack_overflow.c -o stack_overflow.asan.o
 /afs/cs.pitt.edu/courses/1632/clang-9.0.1/bin/clang stack_overflow.asan.o  -fsanitize=address -o stack_overflow.asan
 ```
+
+## Resources
+
+* Windows SSH Terminal Client: [Putty](https://www.technology.pitt.edu/services/pittnet-vpn-pulse-secure)
+* File Transfer Client: [FileZilla](https://filezilla-project.org/download.php?type=client)
+* Linux command line tutorial: [The Linux Command Line](http://linuxcommand.org/lc3_learning_the_shell.php)

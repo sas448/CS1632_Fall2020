@@ -33,6 +33,6 @@ public class Rand {
 
     int c = a/(b+a -2);                  // (4)
 
-    System.out.printf("=>  c=%d     , b=%d, a=%d\n", c, b, a);         
+    System.out.printf("=>  c=%d     ,b=%d, a=%d\n", c, b, a);         
   }
 }

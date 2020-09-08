@@ -27,6 +27,8 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 
 * Class 2: Discuss Exercise 1 / Deliverable 1 / TopHat questions
 
+* Deliverable 1 released due Sep. 14 at 9:00 AM
+
 * Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Defects (READING: AFIST, Chapters 9)
   * Breaking Software (READING: AFIST, Chapters 7)
@@ -47,6 +49,8 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 1: In-class Exercise 2: Unit Testing (Due before Class 2 at 9:00 AM)
 
 * Class 2: Discuss Exercise 2 / Deliverable 2 / TopHat questions
+
+* Deliverable 1 due Sep. 14 at 9:00 AM
 
 * Listen to lectures (TopHat questions due the following before Class 1 at 9:00 AM):
   * Test-driven Development (READING: AFIST, Chapter 15)

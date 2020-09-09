@@ -359,19 +359,19 @@ Let's time 'binary_tree.c' a) running without instrumentation, b) running with
 ASAN instrumentation, and c) running with Valgrind instrumentation:
 
    ```
-   $ time binary_tree 15
+   $ time ./binary_tree 15
    ...
    real    0m0.117s
    user    0m0.111s
    sys     0m0.006s
 
-   $ time binary_tree.asan 15
+   $ time ./binary_tree.asan 15
    ...
    real    0m0.162s
    user    0m0.147s
    sys     0m0.015s
 
-   $ time valgrind binary_tree 15
+   $ time valgrind ./binary_tree 15
    ...
    real    0m2.614s
    user    0m2.587s

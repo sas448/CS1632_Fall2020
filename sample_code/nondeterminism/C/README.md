@@ -248,7 +248,7 @@ p = 0x7fff0bc73c08
  8 3c c7  b ff 7f  0  0
 ```
 
-Let's if ASAN is able to find this bug:
+Let's see if ASAN is able to find this bug:
 
 ```
 $ ./stack_pointer_return.asan

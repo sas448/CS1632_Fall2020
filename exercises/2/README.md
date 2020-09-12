@@ -165,8 +165,6 @@ You will do two submissions for this exercise.
 
     After you have created the screenshot, save the picture to a PDF file and submit to GradeScope at the "Exercise 2 Coverage" link.  Make sure the picture fits in one page for easy viewing and grading.
 
-Please submit by Friday (6/5) 6:00 PM to get timely feedback.
-
 IMPORTANT: Please keep the github private!
 
 ## GradeScope Feedback

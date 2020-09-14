@@ -4,6 +4,13 @@ Fall Semester 2020 - Exercise 2
 * DUE: Sep 16, 2020 09:00 AM (Mon/Wed class)
 * DUE: Sep 17, 2020 09:00 AM (Tue/Thu class)
 
+## Before You Begin
+
+Please download Eclipse IDE:
+https://www.eclipse.org/downloads/
+
+Have it downloading and installing while you read the rest of the exercise.
+
 ## Description
 
 In this exercise, we will simulate the main Rent-A-Cat rental system software.  This is obviously a "toy" implementation of the vast and powerful Rent-A-Cat apparatus.

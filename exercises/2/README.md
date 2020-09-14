@@ -190,7 +190,6 @@ These links are the same ones posted at the end of the slides:
 
 * JUnit User manual:  
 https://junit.org/junit4/
-The Writing Tests section is probably the most useful.
 
 * JUnit Reference Javadoc:  
 http://junit.sourceforge.net/javadoc/  
